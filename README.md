@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Denis Zabrodsky
+# Hi 👋, I'm [Your Name]
 
 ### Full Stack Developer
 
@@ -71,8 +71,6 @@ I pay close attention to code quality and maintainability, while also ensuring s
 <!-- Top Skills Card: GitHub username required -->
 
 <!-- GitHub Stats Card: GitHub username required -->
-
-<!-- Visitor Count Badge: GitHub username required -->
 
 </div>
 
